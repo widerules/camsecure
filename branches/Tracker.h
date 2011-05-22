@@ -2,8 +2,7 @@
  *  Tracker.h
  *  RALPH
  *
- *  Created by anoopk on 14/05/11.
- *  Copyright 2011 Sourcebits Technologies. All rights reserved.
+ *  Created by Ronald on 14/05/11.
  *
  */
 
